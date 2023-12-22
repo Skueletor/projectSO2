@@ -16,7 +16,7 @@ El proyecto es una tienda virtual para entusiastas de la moda canina, ofreciendo
 ## Video de Presentación
 [![Ver el Video de Presentación del Proyecto](https://graph.org/file/99052c81c7fd40539f183.jpg)](https://youtu.be/VAlOTF0DIoc)
 
-No dudes en ver nuestro video de presentación del proyecto para una demostración visual de HayDog.
+No dudes en ver nuestro video de presentación del proyecto para una demostración visual de HayDog presionando la imagen de arriba.
 
 ## Instalación en Windows
 Para ejecutar el proyecto localmente (Windows), sigue estos pasos:
@@ -26,7 +26,7 @@ Para ejecutar el proyecto localmente (Windows), sigue estos pasos:
 2. Ingresa a la dirección C:\xampp\htdocs desde el equipo local y pega la carpeta del proyecto.
 3. Ingresa al panel de control de XAMPP y ejecuta Apache y MySQL.
 4. En el navegador, ingresa a la siguiente [dirección](http://localhost/phpmyadmin/) y debes crear la base de datos, para lo cual, hemos realizado el siguiente tutorial paso a paso: https://telegra.ph/Pasos-para-la-instalaci%C3%B3n-del-proyecto-en-Windows-12-21
-5. Luego ingresa a la siguiente [dirección](http://localhost/projectSO2/index.php) para revisar el proyecto funcionando.
+5. Luego de realizar todos los pasos anteriores, ingresa a la siguiente [dirección](http://localhost/projectSO2/index.php) para revisar el proyecto funcionando localmente.
 
 ## Instalación en Ubuntu/Linux (próximamente...)
 
